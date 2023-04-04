@@ -41,6 +41,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
+}
+.btn-delete:hover{
+    background-color: green;
 }
 .delete-icon{
     color: #EB5757;
